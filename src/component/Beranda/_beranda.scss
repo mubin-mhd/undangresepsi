@@ -1,0 +1,101 @@
+section#beranda {
+  background: url("../../_assets/img/clipart/bgwedding2.png");
+  background-attachment: fixed;
+  background-size: 100% auto;
+  background-color: #74011f;
+  min-height: 910px;
+  background-repeat: no-repeat;
+  position: relative;
+  // background-blend-mode: soft-light;
+  .container {
+    padding-top: 190px;
+    color: #ffdfb9;
+    h1 {
+      font-family: "Vidaloka";
+      font-size: 52px;
+      margin-bottom: 32px;
+      color: #fff;
+    }
+    p {
+      font-size: 22px;
+      font-weight: 400;
+      margin-bottom: 50px;
+      color: rgb(235, 233, 233);
+    }
+    a.btn {
+      padding: 18px 35px;
+      background-color: #ffdfb9;
+      color: #33000e;
+      font-weight: 500;
+      border-radius: 10px;
+    }
+    a.btn:hover {
+      background-color: rgb(235, 233, 233, 0.4);
+    }
+  }
+
+  img {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 85%;
+    max-width: 1200px;
+    transform: translate3d(-50%, 45%, 0);
+    z-index: 2;
+  }
+
+  .popup-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 230px;
+    height: auto;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 9999;
+    text-decoration: none;
+    font-size: 20px;
+    transition: all 0.5s ease;
+  }
+
+  .wa-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border-radius: 50%;
+    background-color: #56d18e;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 9999;
+    text-decoration: none;
+    font-size: 20px;
+    transition: all 0.4s ease;
+    &:hover {
+      color: white;
+      opacity: 0.75;
+    }
+  }
+
+  @media (max-width: 576px) {
+    background-size: auto 100%;
+    min-height: 95vh;
+    .container {
+      padding-top: 150px;
+      color: #ffdfb9;
+      h1 {
+        font-family: "Vidaloka";
+        font-size: 30px;
+        margin-bottom: 32px;
+      }
+      p {
+        font-size: 16px;
+        font-weight: 400;
+      }
+    }
+  }
+}
