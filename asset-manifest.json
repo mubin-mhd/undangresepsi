@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/undangresepsi/static/css/main.5412a10f.css",
-    "main.js": "/undangresepsi/static/js/main.0eb5836b.js",
+    "main.js": "/undangresepsi/static/js/main.63226685.js",
     "static/media/wedding.mp4": "/undangresepsi/static/media/wedding.7968d5cf339e539c6951.mp4",
     "static/media/bg-closing.jpg": "/undangresepsi/static/media/bg-closing.f41e5657a1a2591c1c42.jpg",
     "static/media/audio.mp3": "/undangresepsi/static/media/audio.b6e5574e4d844c98b8da.mp3",
@@ -23,10 +23,10 @@
     "static/media/vid-thumb-1.jpg": "/undangresepsi/static/media/vid-thumb-1.3c637e26f40667ca0214.jpg",
     "index.html": "/undangresepsi/index.html",
     "main.5412a10f.css.map": "/undangresepsi/static/css/main.5412a10f.css.map",
-    "main.0eb5836b.js.map": "/undangresepsi/static/js/main.0eb5836b.js.map"
+    "main.63226685.js.map": "/undangresepsi/static/js/main.63226685.js.map"
   },
   "entrypoints": [
     "static/css/main.5412a10f.css",
-    "static/js/main.0eb5836b.js"
+    "static/js/main.63226685.js"
   ]
 }
