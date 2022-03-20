@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/undangresepsi/static/css/main.5412a10f.css",
-    "main.js": "/undangresepsi/static/js/main.f215d0bf.js",
+    "main.css": "/undangresepsi/static/css/main.2f252969.css",
+    "main.js": "/undangresepsi/static/js/main.db3d2691.js",
     "static/media/wedding.mp4": "/undangresepsi/static/media/wedding.7968d5cf339e539c6951.mp4",
     "static/media/bg-closing.jpg": "/undangresepsi/static/media/bg-closing.f41e5657a1a2591c1c42.jpg",
     "static/media/audio.mp3": "/undangresepsi/static/media/audio.b6e5574e4d844c98b8da.mp3",
     "static/media/bgwedding2.png": "/undangresepsi/static/media/bgwedding2.587d701a218c4f0cb12a.png",
     "static/media/bg.jpg": "/undangresepsi/static/media/bg.e7d57e7ffea348b8284d.jpg",
-    "static/media/device.png": "/undangresepsi/static/media/device.71d3b7c9eaf5ec8d28c8.png",
+    "static/media/laptop.png": "/undangresepsi/static/media/laptop.9034ca26567071518863.png",
     "static/media/img-2.jpg": "/undangresepsi/static/media/img-2.f8e205fb450422a86af1.jpg",
     "static/media/bg-2.jpg": "/undangresepsi/static/media/bg-2.6777e14a1eb25c86e540.jpg",
     "static/media/bg-pricing.png": "/undangresepsi/static/media/bg-pricing.80f13cd5b04d3e63ec18.png",
@@ -22,11 +22,11 @@
     "static/media/vid-thumb-4.jpg": "/undangresepsi/static/media/vid-thumb-4.7040101e0119632a992c.jpg",
     "static/media/vid-thumb-1.jpg": "/undangresepsi/static/media/vid-thumb-1.3c637e26f40667ca0214.jpg",
     "index.html": "/undangresepsi/index.html",
-    "main.5412a10f.css.map": "/undangresepsi/static/css/main.5412a10f.css.map",
-    "main.f215d0bf.js.map": "/undangresepsi/static/js/main.f215d0bf.js.map"
+    "main.2f252969.css.map": "/undangresepsi/static/css/main.2f252969.css.map",
+    "main.db3d2691.js.map": "/undangresepsi/static/js/main.db3d2691.js.map"
   },
   "entrypoints": [
-    "static/css/main.5412a10f.css",
-    "static/js/main.f215d0bf.js"
+    "static/css/main.2f252969.css",
+    "static/js/main.db3d2691.js"
   ]
 }
