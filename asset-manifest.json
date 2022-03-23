@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/undangresepsi/static/css/main.33349ffb.css",
-    "main.js": "/undangresepsi/static/js/main.db3d2691.js",
-    "static/media/wedding.mp4": "/undangresepsi/static/media/wedding.7968d5cf339e539c6951.mp4",
+    "main.css": "/undangresepsi/static/css/main.d936c7d8.css",
+    "main.js": "/undangresepsi/static/js/main.e6509afc.js",
     "static/media/bg-closing.jpg": "/undangresepsi/static/media/bg-closing.f41e5657a1a2591c1c42.jpg",
     "static/media/audio.mp3": "/undangresepsi/static/media/audio.b6e5574e4d844c98b8da.mp3",
     "static/media/bgwedding2.png": "/undangresepsi/static/media/bgwedding2.587d701a218c4f0cb12a.png",
@@ -14,19 +13,13 @@
     "static/media/img-1.jpg": "/undangresepsi/static/media/img-1.afb049616796a7f657cc.jpg",
     "static/media/ornament-0.png": "/undangresepsi/static/media/ornament-0.3b9bc4397d26b75b12c6.png",
     "static/media/ornament-4.png": "/undangresepsi/static/media/ornament-4.1b9f1a0e8253688e3e79.png",
-    "static/media/vid-thumb-5.jpg": "/undangresepsi/static/media/vid-thumb-5.c401720e43102204f35a.jpg",
-    "static/media/vid-thumb-2.jpg": "/undangresepsi/static/media/vid-thumb-2.12ad31556eb329b59f59.jpg",
     "static/media/ornament-1.png": "/undangresepsi/static/media/ornament-1.50fa3300481a555b689a.png",
-    "static/media/vid-thumb-3.jpg": "/undangresepsi/static/media/vid-thumb-3.0ecc00cf1e684e96a2af.jpg",
-    "static/media/vid-thumb-6.jpg": "/undangresepsi/static/media/vid-thumb-6.4f6994f562cc10d9528e.jpg",
-    "static/media/vid-thumb-4.jpg": "/undangresepsi/static/media/vid-thumb-4.7040101e0119632a992c.jpg",
-    "static/media/vid-thumb-1.jpg": "/undangresepsi/static/media/vid-thumb-1.3c637e26f40667ca0214.jpg",
     "index.html": "/undangresepsi/index.html",
-    "main.33349ffb.css.map": "/undangresepsi/static/css/main.33349ffb.css.map",
-    "main.db3d2691.js.map": "/undangresepsi/static/js/main.db3d2691.js.map"
+    "main.d936c7d8.css.map": "/undangresepsi/static/css/main.d936c7d8.css.map",
+    "main.e6509afc.js.map": "/undangresepsi/static/js/main.e6509afc.js.map"
   },
   "entrypoints": [
-    "static/css/main.33349ffb.css",
-    "static/js/main.db3d2691.js"
+    "static/css/main.d936c7d8.css",
+    "static/js/main.e6509afc.js"
   ]
 }
