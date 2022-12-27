@@ -37,7 +37,7 @@ const Suara = () => {
           <div>
             <audio id="audio" src="" loop></audio>
             <a className="audio-control">
-              <i class="bi bi-mic-mute"></i>
+              <i className="bi bi-mic-mute"></i>
             </a>
           </div>
         )}
